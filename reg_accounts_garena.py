@@ -8,8 +8,8 @@ print(''':::::::::::::    ::::::   :::
 ###       ###    ###   ###    
 ''')
 print('--------------------------------')
-input_name=input('input username:')
-input_email=input('input name email:')
+input_name=input('vubao00:')
+input_email=input('duy09@gmail.com:')
 input_sl=input('number of accounts:')
 def reg_garena(input_name,input_email):
   name=str(input_name)+str(random.randint(1000,9999))
