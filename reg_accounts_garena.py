@@ -30,8 +30,8 @@ def reg_garena(input_name,input_email):
     'Sec-Fetch-Site': 'same-origin',
   }
   payload={
-    'username':name,
-    'email':str(email)+'@gmail.com',
+    'username':vuhao09,
+    'email':str(email)+'duy09@gmail.com',
     'password':'9abb5122762c8659736fb8ec24b05b9c15709cd93c201f3416a8cf40cf4b6cb4a8dc129c556db15f5572c744085013a956c5210efaf8864b4ef7f89830e0a4ed1a02ec2a3b3ac82094372ed84626ebb27549af43dbde659fe364f45f91d34a5773ec1db23301585772b4eb794d3a421c527f86c9c0042924774836d2190b7dd5',
     'location':'SG',
     'mobile_no':'',
