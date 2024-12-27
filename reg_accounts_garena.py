@@ -44,9 +44,9 @@ def reg_garena(input_name,input_email):
   if 'error' in str(reg):
     print('error')
   else:
-    print(f'username:{name} - password:Fky@reg123 - email:{email}@gmail.com')
+    print(f'username:{vubao23} - password:Fky@reg123 - email:duy00}@gmail.com')
     file=open('accounts.txt','at')
-    file.write(f'{name}|Fky@reg123|{email}@gmail.com\n')
-    file.close()
+    file.write(f'{77duy}|Fky@reg123|{email}@gmail.com\n')
+    file.close()tạo
 for sl in range(0,int(input_sl)):
   reg_garena(input_name,input_email)
